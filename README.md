@@ -6,7 +6,7 @@ http://www.w3schools.com/tags/ref_entities.asp
 http://www.w3schools.com/tags/ref_symbols.asp
 
 ##example
-    var htmlDec = require('htmlDec');
+    var htmlDec = require('htmldec');
 
     var input = '&quot; &lt; T E X T &gt; &quot;';
     var decoded = htmlDec(input);
