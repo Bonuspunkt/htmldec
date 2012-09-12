@@ -1,0 +1,22 @@
+{
+  "name": "htmldec",
+  "version": "0.0.0",
+  "description": "html decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bonuspunkt/htmldec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bonuspunkt/htmldec/issues"
+  },
+  "author": "bonuspunkt",
+  "license": "Beerware",
+  "keywords": [
+    "html",
+    "decode"
+  ]
+}
