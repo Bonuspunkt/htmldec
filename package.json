@@ -1,6 +1,6 @@
 {
   "name": "htmldec",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "html decoder",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "bugs": {
     "url": "https://github.com/Bonuspunkt/htmldec/issues"
   },
-  "author": "bonuspunkt",
-  "license": "Beerware",
+  "author": "Bonuspunkt",
+  "license": "public domain",
   "keywords": [
     "html",
     "decode"
