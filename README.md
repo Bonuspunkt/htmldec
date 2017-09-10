@@ -1,4 +1,6 @@
 # htmlDec [![Build Status](https://secure.travis-ci.org/Bonuspunkt/htmldec.png)](http://travis-ci.org/Bonuspunkt/htmldec)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bonuspunkt/htmldec.svg)](https://greenkeeper.io/)
 converts html special entities back to plain text
 
 the conversation table is taken from
